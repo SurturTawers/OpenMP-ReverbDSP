@@ -1,7 +1,7 @@
 # OpenMP-ReverbDSP
 Schroeder Reverberator implementation with paralelization of audio processing using OpenMP.
 
-I implemented two versions of this, one sequential to test that it works (secuencial) and parallel with OpenMP (paralelo).
+I implemented two versions of this, one sequential (secuencial) to test that it works, and the other in parallel (paralelo) with OpenMP.
 
 ##For this project you need
 

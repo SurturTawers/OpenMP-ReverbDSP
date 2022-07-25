@@ -18,6 +18,6 @@ The architecture of the reverberator consists of:
 \
 given by the following Schroeder reverberator example diagram.
 ![plot](./schroederRev.png)
-\
+\ \ \
 with the boxes upper numbers being the decay factor (that reduces the amplitude), and the lower numbers are the delay in milliseconds (these parameters can be modified in the code).\
 It also creates a .wav file to listen to the output of the processing, also, you can playback the audio via your headphones or audio interface into speakers, it depends of your audio inputs and outputs, which you can modify via code in main function where it lists all your enabled audio devices.
